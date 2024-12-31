@@ -20,8 +20,9 @@ Scroll Animations: Engaging effects that make the website come alive.
 HTML
 css
 js
-
-
+![My Portfolio - Google Chrome 31-12-2024 18_03_42](https://github.com/user-attachments/assets/786a4897-e57b-43e6-8c2e-dbd5abb32381)
+![My Portfolio - Google Chrome 31-12-2024 18_05_17](https://github.com/user-attachments/assets/fec3bb16-092d-4f3f-9da8-7d552d5b92f5)
+![My Portfolio - Google Chrome 31-12-2024 18_04_24](https://github.com/user-attachments/assets/37d9055b-3264-4c60-99aa-40639fa0a440)
 
 ## Screenshots
 
